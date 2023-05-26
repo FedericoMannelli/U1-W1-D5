@@ -1,0 +1,88 @@
+/* Your styles here */
+/* impostazioni generali */
+html {
+    size: 62.5%;
+}
+@font-face{ 
+    
+    src: url(fa-brands-400.ttf) format('truetype');
+      }
+
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+    
+body {
+    font-family: ();
+    src: url(fa-brands-400.ttf) format('truetype');}
+
+.container img {
+    width: 75px;
+    background-position: center;
+    margin-bottom: 15px;
+    }
+    .container div {
+        text-align: center;
+    }
+
+
+/* HEADER */
+header {
+    
+    background-color: black;
+ 
+}
+nav {
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+nav div {
+    font-family:
+    color:  ;
+    letter-spacing: ;
+    text-align: center;
+    margin: 15px;
+    }
+    nav div p{
+        background-color: red;
+         color: white ;
+         border-radius: 5px;
+         padding: 10px;
+         font-size: small;
+    }
+    nav div button {
+        width: 100px;
+        height: 35px;
+        background-color: #f04c2f;
+        border-radius: 4px;
+        font-weight: bold;
+        color: white;
+        border:none ;
+        font-family:;
+    }
+nav p {
+    text-align: center;
+}
+nav div p {
+    
+    size: 50px ;
+}
+main  {
+    text-align: center;
+    padding: 40px;
+    }
+    main  p {
+        padding: 20px;
+    }
+main div img {
+    border-radius: 200px;
+   width: 50px
+    }
+    
+
+
